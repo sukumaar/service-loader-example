@@ -27,7 +27,7 @@
     </dependency>
     <dependency>
       <groupId>sukumaar</groupId>
-      <artifactId>service-example</artifactId>
+      <artifactId>service-interface-example</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
